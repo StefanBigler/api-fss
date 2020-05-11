@@ -11,3 +11,5 @@ heading_anchors: true
 aux_links:
     " API FSS on GitHub":
       - "//github.com/sbb-api/api-fss"
+
+theme: jekyll-theme-cayman
