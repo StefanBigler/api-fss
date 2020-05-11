@@ -9,7 +9,7 @@ permalink: /
 
 ![SBB API](images/logo.jpg)
 
-This is the public documentation of the SBB Financial Systems and Services (FSS) API. It shows how to sign up for the API and how to use it.
+This ist the public documentation of the SBB Financial Systems and Services (FSS) API. It shows how to sign up for the API and how to use it.
 ---
 
 ## What it is
